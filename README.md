@@ -34,7 +34,7 @@ The `pizza_sales_queries.sql` file contains queries divided into three levels:
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/yogesh43221/Analyzing-Pizza-Sales-Trends-with-SQL-and-Power-BI/tree/main.git
    ```
 2. Import the dataset into MySQL.
 3. Run the SQL script in MySQL:
