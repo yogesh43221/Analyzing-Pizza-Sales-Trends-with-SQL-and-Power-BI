@@ -48,7 +48,7 @@ The `pizza_sales_queries.sql` file contains queries divided into three levels:
 - Dataset in CSV format (provided)
 
 ## Author
-[Yogesh Jadhav](https://github.com/Yogesh-Jadhav)
+[Yogesh Jadhav](https://github.com/yogesh43221)
 
 Feel free to contribute or raise issues!
 
